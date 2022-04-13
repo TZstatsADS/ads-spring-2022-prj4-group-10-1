@@ -17,7 +17,7 @@ Term: Spring 2022
 **Contribution statement**: 
 + Jun Ding, Hahyung Jung, and Shanyue Zeng contribute the Algorithm A5.
 + Jiahao Shao, and Joel Mugyenyi contribute to Algorithm A7.
-+ Jiahao Shao is the presenter and organizeed all group meethings.
++ Jiahao Shao is the presenter and organized all group meethings.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
