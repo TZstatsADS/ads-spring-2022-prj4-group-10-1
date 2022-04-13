@@ -4,7 +4,7 @@
 
 Term: Spring 2022
 
-+ Team #10
++ Team # 10
 + Projec title: Machine Learning Fairness using Prejudice Remover Regularizer and Fairness-aware Feature Selection.
 + Team members
 	+ Ding, Jun
@@ -12,7 +12,7 @@ Term: Spring 2022
 	+ Mugyenyi, Joel
 	+ Shao, Jiahao
 	+ Zeng, Shanyue
-+ Project summary: 
++ Project summary: The project discussed the machine learning fairness using the COMPAS dataset and based on the two algorithms: Prejudice Remover Regularizer and Fairness-aware Feature Selection. 
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
