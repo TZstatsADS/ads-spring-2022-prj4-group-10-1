@@ -14,7 +14,10 @@ Term: Spring 2022
 	+ Zeng, Shanyue
 + Project summary: The project discussed the machine learning fairness using the COMPAS dataset and based on the two algorithms: Prejudice Remover Regularizer and Fairness-aware Feature Selection. 
 	
-**Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: 
++ Jun Ding, Hahyung Jung, and Shanyue Zeng contribute the Algorithm A5.
++ Jiahao Shao, and Joel Mugyenyi contribute to Algorithm A7.
++ Jiahao Shao is the presenter and organizeed all group meethings.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
